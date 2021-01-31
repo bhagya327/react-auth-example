@@ -19,7 +19,7 @@ mongod
 ```
 run the server
 ```
-npm run server
+node server.js
 ```
 and then in a separate window/tab run the frontend
 ```
